@@ -22,4 +22,5 @@
 
 ## 参考文献
 [1] "荒らし", https://www.weblio.jp/content/%E8%8D%92%E3%82%89%E3%81%97
+
 [2] "口論", https://www.weblio.jp/content/%E5%8F%A3%E8%AB%96
